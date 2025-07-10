@@ -2,8 +2,8 @@
 
 # note: you may edit /usr/share/X11/xkb/rules/evdev.xml to add an entry in Plasma's keyboard layout list
 
-kb_file_name="nickbvdev"
-kb_display_name="NicKB vDev"
+kb_file_name="nickbv4"
+kb_display_name="nic4"
 
 sudo cp "$kb_file_name" /usr/share/X11/xkb/symbols/
 
