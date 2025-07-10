@@ -1,9 +1,11 @@
 
 # My Keyboard Layout
 
-This keyboard is based on the standard US layout, with added access to many useful symbols and accents via the AltGr key. Unlike the US international layout, it does not use dead keys.
+This keyboard is based on the standard US layout, with added access to many useful symbols and accents via the AltGr key. Unlike the US international layout, it does not use dead keys outside of the AltGr context.
 
-## Keyboard layout preview
+*Tested with [Windows 11](windows) and [Fedora KDE Plasma](xkb)*
+
+## Preview
 
 ### Base layout (= standard US)
 
